@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="11555" started-at="2017-07-19T12:55:39Z" finished-at="2017-07-19T12:55:51Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="11555" started-at="2017-07-19T12:55:39Z" finished-at="2017-07-19T12:55:51Z">
+      <class name="Dmitry.SeleniumTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:Dmitry.SeleniumTest@59f99ea]" name="setup" is-config="true" duration-ms="3179" started-at="2017-07-19T14:55:39Z" finished-at="2017-07-19T14:55:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testNavigationBack()[pri:0, instance:Dmitry.SeleniumTest@59f99ea]" name="testNavigationBack" duration-ms="3000" started-at="2017-07-19T14:55:42Z" finished-at="2017-07-19T14:55:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNavigationBack -->
+        <test-method status="PASS" signature="testParameterWithXML()[pri:0, instance:Dmitry.SeleniumTest@59f99ea]" name="testParameterWithXML" duration-ms="413" started-at="2017-07-19T14:55:45Z" finished-at="2017-07-19T14:55:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testParameterWithXML -->
+        <test-method status="PASS" signature="testRegisteredPageIsOpened()[pri:0, instance:Dmitry.SeleniumTest@59f99ea]" name="testRegisteredPageIsOpened" duration-ms="1184" started-at="2017-07-19T14:55:46Z" finished-at="2017-07-19T14:55:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRegisteredPageIsOpened -->
+        <test-method status="PASS" signature="testUserCanBeRegistered()[pri:0, instance:Dmitry.SeleniumTest@59f99ea]" name="testUserCanBeRegistered" duration-ms="2625" started-at="2017-07-19T14:55:47Z" finished-at="2017-07-19T14:55:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUserCanBeRegistered -->
+        <test-method status="PASS" signature="done()[pri:0, instance:Dmitry.SeleniumTest@59f99ea]" name="done" is-config="true" duration-ms="1055" started-at="2017-07-19T14:55:50Z" finished-at="2017-07-19T14:55:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- done -->
+      </class> <!-- Dmitry.SeleniumTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
